@@ -1,0 +1,12 @@
+# credenciais e dados reais dos chamados
+.env
+data/*.db
+data/*.db-*
+data/teste_*.json
+
+# ambiente local
+.venv/
+.claude/
+__pycache__/
+.pytest_cache/
+*.pyc
